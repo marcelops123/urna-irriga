@@ -37,6 +37,7 @@
     ],
     "rules": {
         "no-tabs": "off",
+        "no-unused-vars": "off",
         "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }],
         "no-mixed-spaces-and-tabs":["error", "smart-tabs"],
         "indent": ["error", 4],
