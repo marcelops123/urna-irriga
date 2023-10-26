@@ -4,9 +4,6 @@ import Style from './style';
 export default function Link() {
     const URL = 'https://www.linkedin.com/in/alessandro-l-menezes-57906b71/';
     return (
-        <Style>
-            <NextLink href={URL} passHref>
-            </NextLink>
-        </Style>
+        <></>
     );
 }
