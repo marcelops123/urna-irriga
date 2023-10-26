@@ -8,7 +8,6 @@ export default function Home(): ReactElement {
         <Container>
             <Wrapper>
                 <BallotBox />
-                <AuthorUrl />
             </Wrapper>
         </Container>
     );
