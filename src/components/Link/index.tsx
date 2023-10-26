@@ -6,7 +6,6 @@ export default function Link() {
     return (
         <Style>
             <NextLink href={URL} passHref>
-                <a href={URL}>Conheça o dev</a>
             </NextLink>
         </Style>
     );
